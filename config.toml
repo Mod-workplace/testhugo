@@ -1,7 +1,8 @@
 baseURL = "http://test-hugo.org/"
 languageCode = "fr-FR"
 title = "My New Hugo Site"
-theme = "hugo-theme-dopetrope"
+theme = "hugo-theme-dopetrope-master"
+
 
 [params.portfolio]
     title = "My Portfolio"
